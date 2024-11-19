@@ -1,0 +1,65 @@
+Simulating Highest Change Trading Strategy...
+Day 1:
+It's the end of day 1.
+The highest performer was litecoin.
+You start off with $100 of USD so you use this to buy $100 USD of litecoin as this was the highest performer
+Portfolio Value: $100.00
+
+Day 2:
+Today is the end of day 2.
+At the start of the day you had $100 USD of litecoin.
+At the end of the day litecoin had gone up 2% so you now have $102.07 usd of litecoin.
+The highest performer of the day was nano.
+So you swap your litecoin for nano
+
+Day 3:
+Today is the end of day 3.
+At the start of the day you had $102.07 usd of nano.
+At the end of the day nano had gone up 0.7% so you now have $104.04 usd of nano.
+The highest performer of the day was nano.
+So you keep your nano
+
+Day 4:
+Today is the end of day 4.
+At the start of the day you had $104.04 usd of nano.
+At the end of the day nano had gone up 1.92% so you now have $117.01 usd of nano.
+The highest performer of the day was solana.
+So you swap your ripple for solana
+
+Day 5:
+Today is the end of day 4.
+At the start of the day you had $117.01 usd of solana.
+At the end of the day solana had gone up 12.47% so you now have $124.32 usd of solana.
+The highest performer of the day was solana.
+So you keep you solana
+
+etc
+
+Week 2 as above
+
+Final Portfolio Value (Highest Change):$xxx
+
+Swap Fee Order (Lowest to Highest)
+
+	1.	Monero (XMR):
+	•	Monero generally has the lowest transaction fees among these options due to its privacy features and lighter network. The fees for swapping Monero on Cake Wallet will be lower compared to most other coins.
+	2.	Nano (NANO):
+	•	Nano is a feeless cryptocurrency, meaning there are no transaction fees on the network. Swapping Nano should be close to zero fees besides any ShapeShift fee.
+	3.	Tron (TRX):
+	•	Tron has very low network fees. Transaction fees are typically in the $0.01 to $0.10 range, making it one of the cheaper options for swapping.
+	4.	Solana (SOL):
+	•	Solana’s fees are extremely low, typically under $0.01 per transaction. This makes Solana an attractive option for low-fee swaps.
+	5.	Polygon (MATIC):
+	•	Polygon (Layer 2 solution) has low fees, often in the $0.01 to $0.10 range. It is cheaper to swap Polygon than many Layer 1 coins.
+	6.	Litecoin (LTC):
+	•	Litecoin is a low-fee cryptocurrency with transaction fees typically between $0.01 and $0.10, but higher than some Layer 2 solutions like Polygon or Solana.
+	7.	Bitcoin Cash (BCH):
+	•	Bitcoin Cash generally has low fees, but not as low as Litecoin. Transaction fees are typically in the $0.01 to $0.50 range.
+	8.	Haven (XHV):
+	•	Haven (which uses Monero’s technology) has moderate fees, usually higher than Monero’s base fee, but still lower than the main blockchains like Bitcoin and Ethereum.
+	9.	Bitcoin (BTC):
+	•	Bitcoin usually has higher fees compared to the other cryptocurrencies on this list, especially during periods of congestion. Fees can range from $0.50 to several dollars depending on the network’s load.
+	10.	Ethereum (ETH):
+
+
+This function is not correct. It should take each coin and calculate the percentages from the start of the week.
